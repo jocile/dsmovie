@@ -5,6 +5,7 @@
 - Catálogo de filmes em contendo:
   - página de listagem de filmes;
   - botões de avaliação de filmes;
+- [Design no Figma](https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1)
 - Frontend em react JS;
   - Framework de componentes web com Bootstrap;
 - Backend em java;
