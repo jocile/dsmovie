@@ -6,7 +6,9 @@
   - página de listagem de filmes;
   - botões de avaliação de filmes;
 - Frontend em react JS;
-- Backend em java com o framework Spring Boot.
+  - Framework de componentes web com Bootstrap;
+- Backend em java;
+  - Framework Spring Boot.
 
 ## Referências
 
